@@ -1,0 +1,2 @@
+Hello bash script
+This is custom input
